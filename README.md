@@ -17,7 +17,7 @@ using an implemented design on your Basys3 boards.
 
 Summarize your learnings from the lab here.
 * Learned how to find SOP and POS from a KMap of a truth table.
-* Learned how to make a optimal Boolean equation by overlapping groups in KMaps.
+* Learned how to make an optimal Boolean equation by overlapping groups in KMaps.
 * Learned how to code Boolean equations in Verilog.
 * Learned how to view the schematics (circuit diagram) of our modules.
   
